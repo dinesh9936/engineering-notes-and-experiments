@@ -2,7 +2,7 @@
 
 ## What is an Operating System?
 An Operating System (OS) is system software that acts as an interface between the user and computer hardware.
-![OS Architecture](./images/os.png)
+<img src="./images/os.png" width="500"/>
 
 ## Why Do We Need an OS?
 - Manages hardware resources (CPU, memory, I/O)
